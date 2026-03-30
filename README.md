@@ -1,16 +1,30 @@
-# React + Vite
+Smart Email Assistant - Frontend
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Email Assistant is a frontend web application designed to simplify and enhance email management. It provides users with an intuitive interface to compose, read, and organize emails efficiently.
 
-Currently, two official plugins are available:
+The goal of this project is to deliver a seamless and user-friendly experience while interacting with email functionalities, with potential integration of intelligent features in the future.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🎯 Objectives
+To design a clean and responsive email interface
+To improve user productivity in handling emails
+To build a scalable frontend architecture
+To prepare for integration with smart/AI-based features
+🛠️ Technologies Used
+React.js for building user interfaces
+CSS / Tailwind for styling
+JavaScript for functionality and interactivity
+✨ Key Features
+User-friendly email composition interface
+Organized inbox-style layout
+Responsive design for multiple devices
+Modular and reusable components
+🧩 System Design
 
-## React Compiler
+The frontend is structured using component-based architecture, ensuring:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Reusability of UI components
+Better code management
+Easy scalability and maintenance
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application is designed to interact with backend services through APIs for dynamic data handling.
