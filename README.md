@@ -18,13 +18,13 @@ CSS / Tailwind for styling
 JavaScript for functionality and interactivity<br />
 <br />
 ✨ Key Features<br />
-User-friendly email composition interface
-Organized inbox-style layout
-Responsive design for multiple devices
-Modular and reusable components
+User-friendly email composition interface<br />
+Organized inbox-style layout<br />
+Responsive design for multiple devices<br />
+Modular and reusable components<br />
 <br />
-🧩 System Design<br />
 
+🧩 System Design<br />
 The frontend is structured using component-based architecture, ensuring:<br />
 Reusability of UI components<br />
 Better code management<br />
