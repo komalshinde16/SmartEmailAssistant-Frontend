@@ -8,14 +8,14 @@ The goal of this project is to deliver a seamless and user-friendly experience w
 
 🎯 Objectives <br />
 To design a clean and responsive email interface
-To improve user productivity in handling emails
+To improve user productivity in handling emails<br />
 To build a scalable frontend architecture
-To prepare for integration with smart/AI-based features
+To prepare for integration with smart/AI-based features<br />
 <br />
 🛠️ Technologies Used<br />
 React.js for building user interfaces
 CSS / Tailwind for styling
-JavaScript for functionality and interactivity
+JavaScript for functionality and interactivity<br />
 <br />
 ✨ Key Features<br />
 User-friendly email composition interface
@@ -25,8 +25,8 @@ Modular and reusable components
 <br />
 🧩 System Design<br />
 
-The frontend is structured using component-based architecture, ensuring:
-Reusability of UI components
-Better code management
-Easy scalability and maintenance
-The application is designed to interact with backend services through APIs for dynamic data handling.
+The frontend is structured using component-based architecture, ensuring:<br />
+Reusability of UI components<br />
+Better code management<br />
+Easy scalability and maintenance<br />
+The application is designed to interact with backend services through APIs for dynamic data handling.<br />
